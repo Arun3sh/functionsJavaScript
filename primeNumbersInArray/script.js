@@ -41,7 +41,3 @@ var res = function(){
   document.getElementById("res").style.display = "block";
   return newArr;
 }
-/*if(+a[j]%2 != 0){
-      console.log(a[j]);
-      document.getElementById("answer").innerHTML += a[j] + " \n";
-    } */
