@@ -4,14 +4,15 @@ let median = function(){
 
   let n1 = a.length;
   let n2 = b.length;
-
+  let n = n1+n2;
+  
   if(n1 == n2){
     let c = [...a, ...b];
     let sum = 0;
     c.forEach(ele =>{
       sum += ele;
     });
-    console.log(sum/n1);
+    console.log(sum/n);
   }
 
 }
