@@ -1,0 +1,15 @@
+.class{
+  margin: 15px;
+}
+span{
+  margin: 5px;
+}
+#inputArea{
+  /*padding-left: 15px;*/
+  margin: 5px;
+  margin-right: 15px;
+}
+#result{
+  margin-top: 20px;
+  padding: 5px;
+}
