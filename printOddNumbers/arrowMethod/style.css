@@ -1,0 +1,12 @@
+.textBox{
+  margin: 10px;
+}
+.fromTextBox, .toTextBox{
+  margin: 10px;
+}
+#toSpan{
+  padding-left: 20px;
+}
+.btn{
+  margin-left: 20px;
+}
