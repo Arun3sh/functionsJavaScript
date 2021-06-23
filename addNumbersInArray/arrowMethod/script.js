@@ -1,4 +1,3 @@
-var a = [1,2,5,8];
 convert = () => {
   let a = document.getElementById("inputArea").value.split(" ");
   
